@@ -1,0 +1,6 @@
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\bin\Debug\Zephyr.Data.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\bin\Debug\Zephyr.Data.pdb
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.csprojAssemblyReference.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.csproj.CoreCompileInputs.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.pdb

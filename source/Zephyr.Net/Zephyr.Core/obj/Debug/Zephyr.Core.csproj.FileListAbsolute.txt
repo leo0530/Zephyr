@@ -1,0 +1,7 @@
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.Core.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.Core.pdb
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Core\obj\Debug\Zephyr.Core.csprojAssemblyReference.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Core\obj\Debug\Zephyr.Core.csproj.CoreCompileInputs.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Core\obj\Debug\Zephyr.Core.csproj.CopyComplete
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Core\obj\Debug\Zephyr.Core.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Core\obj\Debug\Zephyr.Core.pdb

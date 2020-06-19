@@ -1,0 +1,2 @@
+E:\Zephyr.Net源代码\source\Zephyr.Web\obj\Debug\Zephyr.Web.csprojAssemblyReference.cache
+E:\Zephyr.Net源代码\source\Zephyr.Web\obj\Debug\Zephyr.Web.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.WorkFlow.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.WorkFlow.pdb
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.WorkFlow\obj\Debug\Zephyr.WorkFlow.csprojAssemblyReference.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.WorkFlow\obj\Debug\Zephyr.WorkFlow.csproj.CoreCompileInputs.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.WorkFlow\obj\Debug\Zephyr.WorkFlow.csproj.CopyComplete
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.WorkFlow\obj\Debug\Zephyr.WorkFlow.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.WorkFlow\obj\Debug\Zephyr.WorkFlow.pdb

@@ -1,0 +1,8 @@
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.Utils.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Bin\Zephyr.Utils.pdb
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.csprojAssemblyReference.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.Document.Excel.NPOI.Resource1.resources
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.csproj.GenerateResource.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.csproj.CoreCompileInputs.cache
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.dll
+E:\Zephyr.Net源代码\source\Zephyr.Net\Zephyr.Utils\obj\Debug\Zephyr.Utils.pdb
